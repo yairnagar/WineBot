@@ -1,0 +1,8 @@
+start:
+  welcome: "ברוך הבא! אנא בחר שפה:"
+  language:
+    english: "אנגלית"
+    hebrew: "עברית"
+
+menu:
+  choose_wine: "בחר יין להוספה לעגלה:"

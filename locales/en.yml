@@ -1,0 +1,8 @@
+start:
+  welcome: "Welcome! Please choose a language:"
+  language:
+    english: "English"
+    hebrew: "Hebrew"
+
+menu:
+  choose_wine: "Select a wine to add to your cart:"
