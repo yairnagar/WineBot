@@ -1,8 +1,14 @@
-start:
-  welcome: "Welcome! Please choose a language:"
-  language:
-    english: "English"
-    hebrew: "Hebrew"
+greeting: "Please choose your preferred language:"
+phone_request: "Please share your phone number to proceed:"
+phone_received: "Phone number received! You can now start ordering."
+confirm_phone: "Great! Your current phone number is confirmed."
+change_phone: "No, I want to use a different number"
+phone_current: "Your current phone number is: {{number}}. Is this the correct number?"
+order_thank_you: "Thank you for your order! We will contact you soon at this number: {{number}}, order number: {{orderId}}"
+cart_empty: "Your cart is empty."
+cart_current: "Your Cart:\n"
 
-menu:
-  choose_wine: "Select a wine to add to your cart:"
+language:
+  english: "English"
+  hebrew: "עברית"
+
